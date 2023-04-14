@@ -32,10 +32,6 @@ When you run the program, you will be prompted to enter your student ID and PIN 
 - `student` module
 - `billing` module
 
-## Authors
-
-- John Doe
-- Jane Smith
 
 ## License
 
